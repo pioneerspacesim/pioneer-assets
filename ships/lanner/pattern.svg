@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2048"
+   height="2048"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="pattern.svg"
+   inkscape:export-filename="/mnt/data/jpab/projects/external/pioneer/pioneer/data/models/ships/lanner/pattern01.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.38427734"
+     inkscape:cx="1024"
+     inkscape:cy="1024"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1551"
+     inkscape:window-height="1003"
+     inkscape:window-x="129"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="256px"
+       spacingy="256px"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="pattern">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect3769"
+       width="2048"
+       height="2048"
+       x="0"
+       y="3.0517578e-05" />
+    <path
+       style="color:#000000;fill:#555555;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 973.28198,8.5020099 1016.2135,136.79138 c -16.1313,45.05578 -52.61702,106.47868 -108.48132,162.08415 -55.86429,55.60548 -166.7013,86.75304 -188.50357,106.61643 -21.80227,19.86338 -27.86267,123.03716 -18.18274,145.46197 9.67992,22.42481 16.76723,29.93168 68.05986,59.82432 51.29263,29.89264 126.9557,60.22383 136.98647,62.43911 10.03077,2.21527 31.37824,7.34019 74.26085,10.06655 l 4.04061,41.41625 7.57614,2.02031 c -5.88857,93.72788 -9.53839,187.4547 -11.11168,281.32753 l -54.54824,0 -10.6066,-146.97724 c -9.20344,-33.9399 -55.7757,-81.41378 -80.30712,-95.96449 -24.53142,-14.55071 -224.88862,-141.01541 -255.56859,-182.33253 -30.67998,-41.31713 -27.8822,-56.01048 -26.76905,-89.90359 1.11315,-33.89311 11.78656,-65.17261 34.34518,-87.88327 22.55863,-22.71066 100.88323,-73.9291 165.15995,-119.70307 64.27672,-45.77397 129.84312,-118.66985 161.11932,-159.6041 31.27621,-40.93426 45.83596,-83.623686 59.59901,-117.1777001 z"
+       id="path2999"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczzzzzcccccczzzzzzc" />
+  </g>
+</svg>
