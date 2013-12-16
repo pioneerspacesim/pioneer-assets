@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="shipclasses.svg"
+   inkscape:export-filename="D:\work\pioneer\graphics_design\icons\fighter32.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#18152d"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-199.19573"
+     inkscape:cy="-282.97953"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-width="1858"
+     inkscape:window-height="1061"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:snap-grids="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3768"
+       empspacing="2"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="45,32"
+       id="guide3783" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="32.5,36"
+       id="guide3785" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4605"
+       empspacing="64"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       color="#e7ff00"
+       opacity="0.1254902"
+       empcolor="#6fff00"
+       empopacity="0.25098039" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="white_bg"
+     style="display:inline">
+    <rect
+       style="fill:#18152d;fill-opacity:1;stroke:none"
+       id="rect3789"
+       width="64"
+       height="64"
+       x="0"
+       y="0" />
+    <rect
+       y="-416"
+       x="-392"
+       height="672"
+       width="1032"
+       id="rect4794"
+       style="fill:#18152d;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       transform="translate(0,-988.36217)"
+       style="fill:#18152d;fill-opacity:1;stroke:none;display:inline"
+       id="rect4789"
+       width="376"
+       height="480"
+       x="-88"
+       y="1052.3622"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons_named.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.36217)"
+     style="display:inline">
+    <g
+       transform="translate(88,49.99997)"
+       id="g3845" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;display:inline"
+       id="rect4789-1"
+       width="192"
+       height="384"
+       x="-64"
+       y="1116.3622"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4595"
+       transform="translate(-64,255.99999)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4454"
+         style="fill:none;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4525"
+         transform="translate(0,988.36217)"
+         d="m 16,12 -4,7 8,8 -3,1 0,8 3,1 -8,7 4,8 22,-4 8,-8 4,-2 2,-6 -2,-6 -4,-2 -8,-8 z m 10,13 2,0 0,1 -2,0 z m 4,0 2,0 0,1 -2,0 z m 4,0 2,0 0,1 -2,0 z m 4,1 2,0 0,1 -2,0 z m -12,2 2,0 0,1 -2,0 z m 4,0 2,0 0,1 -2,0 z m 4,0 2,0 0,1 -2,0 z m 4,1 2,0 0,1 -2,0 z m 5,1 2,0 3,2 -3,2 -2,0 -1,-2 z m -5,4 2,0 0,1 -2,0 z m -12,1 2,0 0,1 -2,0 z m 4,0 2,0 0,1 -2,0 z m 4,0 2,0 0,1 -2,0 z m 4,2 2,0 0,1 -2,0 z m -12,1 2,0 0,1 -2,0 z m 4,0 2,0 0,1 -2,0 z m 4,0 2,0 0,1 -2,0 z"
+         style="fill:#ffffff;stroke:none" />
+    </g>
+    <rect
+       y="924.36218"
+       x="-140"
+       height="64"
+       width="64"
+       id="rect4593"
+       style="fill:none;stroke:#ffffff" />
+    <g
+       id="g4601"
+       transform="translate(64,255.99999)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4527"
+         d="m 24,1004.3622 -4,2 4,11 -2.5,1 0,4 2.5,1 -4,11 4,2 14,-12 4,-2 2,-2 -2,-2 -4,-2 z m 3.5,11 2,0 0,1 -2,0 z m 4,0 2,0 0,1 -2,0 z m 3.5,3 2,0 3,2 -3,2 -2,0 -1,-2 z m -7.5,6 2,0 0,1 -2,0 z m 4,0 2,0 0,1 -2,0 z"
+         style="fill:#ffffff;stroke:none" />
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4599"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g4609"
+       transform="translate(0,255.99999)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:none"
+         d="m 17.5,1000.3622 -4,2 8,13 -3,1 0,8 3,1 -8,13 4,2 13.5,-6 11.5,-10 6,-2 2,-2 -2,-2 -6,-2 -12,-10 z m 7,16 2,0 0,1 -2,0 z m 4,0 2,0 0,1 -2,0 z m 4,0 2,0 0,1 -2,0 z m 4,1 2,0 0,1 -2,0 z m 5,1 2,0 3,2 -3,2 -2,0 -1,-2 z m -5,4 2,0 0,1 -2,0 z m -12,1 2,0 0,1 -2,0 z m 4,0 2,0 0,1 -2,0 z m 4,0 2,0 0,1 -2,0 z"
+         id="path4572" />
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4607"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g4615"
+       transform="translate(-64,128)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccc"
+         id="path4452"
+         d="m 16,1000.3622 -4,2 10,15 -5,3 5,3 -10,15 4,2 28,-16 3,0 3,-2 2,-2 -2,-2 -3,-2 -3,0 z m 27,18 2,0 3,2 -3,2 -2,0 -1,-2 z"
+         style="fill:#ffffff;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4613"
+         style="fill:none;stroke:none" />
+      <path
+         style="fill:#ffffff;stroke:none"
+         d="m 22,1004.3622 14,1 0,1 -14,1 -11,-1.5502 z"
+         id="rect4818"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4821"
+         d="m 22,1033.3622 14,1 0,1 -14,1 -11,-1.5502 z"
+         style="fill:#ffffff;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4823"
+         d="m 86,1004.3622 14,1 0,1 -14,1 -11,-1.5502 z"
+         style="fill:#ffffff;stroke:none" />
+      <path
+         style="fill:#ffffff;stroke:none"
+         d="m 86,1033.3622 14,1 0,1 -14,1 -11,-1.5502 z"
+         id="path4825"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#ffffff;stroke:none"
+         d="m 152.48,1004.3622 9.52,1 0,1 -9.52,1 -7.48,-1.5502 z"
+         id="path4827"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4829"
+         d="m 152.48,1033.3622 9.52,1 0,1 -9.52,1 -7.48,-1.5502 z"
+         style="fill:#ffffff;stroke:none" />
+    </g>
+    <g
+       id="g4623"
+       transform="translate(0,127.99999)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:none"
+         d="m 16,1000.3622 -4,2 10,15 -5,3 5,3 -10,15 4,2 16.5,-15 13.5,-1 4,-2 2,-2 -2,-2 -4,-2 -14,-1 z m 27,18 2,0 3,2 -3,2 -2,0 -1,-2 z"
+         id="path4619" />
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4621"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g4629"
+       transform="translate(64,127.99999)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4450"
+         d="m 24.5,1004.3622 -4,2 4,11 -5,3 5,3 -4,11 4,2 8,-11 6,-1 4,-2 2,-2 -2,-2 -4,-2 -6.5,-1 z m 11,14 2,0 3,2 -3,2 -2,0 -1,-2 z"
+         style="fill:#ffffff;stroke:none" />
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4627"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g4639"
+       transform="translate(64,383.99999)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="stroke:none"
+         id="g4633"
+         transform="translate(-340.5,-104.00003)">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 358,1110.3622 0,28 20,0 0,-2 3,-2 6,-9.9375 -6,-10.0625 -3,-2 0,-2 z m 4,5 12,0 0,2 -12,0 z m 0,4 12,0 0,2 -12,0 z m 20,3 2,0 1,1.9063 -1,2.0937 -2,0 -1,-2 z m -20,1 12,0 0,2 -12,0 z m 0,4 12,0 0,2 -12,0 z m 0,4 12,0 0,2 -12,0 z"
+           id="path4635"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccc" />
+      </g>
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4637"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g4646"
+       transform="translate(0,383.99999)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="stroke:none"
+         id="g4467"
+         transform="translate(2,-2.00003)">
+        <path
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path4469"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 36,1010.3622 0,24 4,-2 7,-9.9375 -7,-10.0625 z m 6,10 2,0 1,1.9063 -1,2.0937 -2,0 -1,-2 z m -29,21 20,0 0,-38 -20,0 z m 4,-6 0,-2 12,0 0,2 z m 0,-4 0,-2 12,0 0,2 z m 0,-4 0,-2 12,0 0,2 z m 0,-4 0,-2 12,0 0,2 z m 0,-4 0,-2 12,0 0,2 z m 0,-4 0,-2 12,0 0,2 z m 0,-4 0,-2 12,0 0,2 z" />
+      </g>
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4644"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g4663"
+       transform="translate(-64,383.99999)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="stroke:none"
+         id="g4651"
+         transform="translate(-163,-106.00003)">
+        <g
+           style="stroke:none"
+           id="g4653"
+           transform="translate(164,104)">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 55,1020.3622 2,0 1,1.9063 -1,2.0937 -2,0 -1,-2 z m -6,-14 0,32 5,-2 6,-13.9375 -6,-14.0625 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             id="path4655"
+             sodipodi:nodetypes="ccccccccccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 30,1011.3622 0,-2 12,0 0,2 z m 0,4 0,-2 12,0 0,2 z m 0,4 0,-2 12,0 0,2 z m 0,4 0,-2 12,0 0,2 z m 0,4 0,-2 12,0 0,2 z m 0,4 0,-2 12,0 0,2 z m 0,4 0,-2 12,0 0,2 z m -4,6 20,0 0,-38 -20,0 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             id="path4657" />
+          <path
+             id="path4659"
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             d="m 6,1011.3622 0,-2 12,0 0,2 z m 0,4 0,-2 12,0 0,2 z m 0,4 0,-2 12,0 0,2 z m 0,4 0,-2 12,0 0,2 z m 0,4 0,-2 12,0 0,2 z m 0,4 0,-2 12,0 0,2 z m 0,4 0,-2 12,0 0,2 z m -4,6 20,0 0,-38 -20,0 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4661"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g4673"
+       transform="translate(64,319.99999)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="stroke:none"
+         transform="translate(-252.87772,136.99997)"
+         id="g4205">
+        <path
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           d="M 293.75544,891.3585 300,884.5813 l -2.29696,-3.1241 -3.9476,-0.095 0,-4 1.67259,0.01 -1.67259,-2.01 -24,0 0,12.00241 2,3.99759 z m -18,-12.9963 2,0 0,5 -2,0 z m 4,0 2,0 0,5 -2,0 z m 4,0 2,0 0,5 -2,0 z m 4,0 2,0 0,5 -2,0 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="path4207" />
+      </g>
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4671"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g4680"
+       transform="translate(0,319.99999)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path4209"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         d="m 53.87772,1030.3585 6.24456,-8.7772 -2.29696,-4.1281 -3.9476,-0.095 0,-4 1.67259,0.01 -1.67259,-3.006 -50,0 0,16.125 12,3.875 z m -32,-15.9963 2,0 0,5 -2,0 z m 4,0 2,0 0,5 -2,0 z m 4,0 2,0 0,5 -2,0 z m 4,0 2,0 0,5 -2,0 z m 4,0 2,0 0,5 -2,0 z m 4,0 2,0 0,5 -2,0 z m 4,0 2,0 0,5 -2,0 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccc" />
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4678"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g4686"
+       transform="translate(-64,319.99999)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         d="m 3.875,1010.8623 0,15 12.0625,6 32.9375,0 8,-6 3.25,-5.7813 -2.3125,-4.125 -3.9375,-0.094 0,-2 1.6875,0 -1.6875,-3 -6,-2 -31.875,0 z m 18,2 2,0 0,3 -2,0 z m 4,0 2,0 0,3 -2,0 z m 4,0 2,0 0,3 -2,0 z m 4,0 2,0 0,3 -2,0 z m 4,0 2,0 0,3 -2,0 z m 4,0 2,0 0,3 -2,0 z m 4,0 2,0 0,3 -2,0 z m -24,5 2,0 0,3 -2,0 z m 4,0 2,0 0,3 -2,0 z m 4,0 2,0 0,3 -2,0 z m 4,0 2,0 0,3 -2,0 z m 4,0 2,0 0,3 -2,0 z m 4,0 2,0 0,3 -2,0 z m 4,0 2,0 0,3 -2,0 z"
+         id="path4211"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4684"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g4692"
+       transform="translate(64,447.99999)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="stroke:none"
+         id="g4399"
+         transform="translate(4.5,-3e-5)">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 354,60 0,20 39,0 L 390.59375,68.03125 387,68 l 0,-4 2.8125,0.03125 L 389,60 z m 6,4 2,0 0,12 -2,0 z m 4,0 2,0 0,12 -2,0 z m 4,0 2,0 0,12 -2,0 z m 4,0 2,0 0,12 -2,0 z m 4,0 2,0 0,12 -2,0 z"
+           transform="translate(-346,950.3622)"
+           id="path4401"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
+      </g>
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4690"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g4699"
+       transform="translate(0,448)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="stroke:none"
+         id="g4179"
+         transform="translate(-1,-1.5e-5)">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 4,22 0,20 38,0 0,-20 z m 6,4 2,0 0,12 -2,0 z m 4,0 2,0 0,12 -2,0 z m 4,0 2,0 0,12 -2,0 z m 4,0 2,0 0,12 -2,0 z m 4,0 2,0 0,12 -2,0 z m 4,0 2,0 0,12 -2,0 z m 4,0 2,0 0,12 -2,0 z"
+           transform="translate(0,988.36217)"
+           id="path4181"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 46,1010.3622 12,0 0.805046,4.0252 -2.805046,-0.025 0,4 3.60904,0.045 2.39096,11.9548 -16,0 z"
+           id="path4183"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc" />
+      </g>
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4697"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g4707"
+       transform="translate(-64,447.99999)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(0,-1.5e-5)"
+         id="g4185">
+        <path
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 4,998.36217 0,20.00003 38,0 0,-20.00003 z m 6,4.00003 2,0 0,12.0555 -2,0 z m 4,0 2,0 0,12.0555 -2,0 z m 4,0 2,0 0,12.0555 -2,0 z m 4,0 2,0 0,12.0555 -2,0 z m 4,0 2,0 0,12.0555 -2,0 z m 4,0 2,0 0,12.0555 -2,0 z m 4,0 2,0 0,12.0555 -2,0 z"
+           id="path4187" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 46,1005.3622 10,0 2.805046,9.0252 -2.805046,-0.025 0,4 3.60904,0.045 0.39096,1.9548 -4,16 -10,0 z"
+           id="path4189"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc" />
+        <path
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc"
+           id="path4191"
+           d="m 4,1022.3621 0,20.0001 38,0 0,-20.0001 z m 6,4.0001 2,0 0,12 -2,0 z m 4,0 2,0 0,12 -2,0 z m 4,0 2,0 0,12 -2,0 z m 4,0 2,0 0,12 -2,0 z m 4,0 2,0 0,12 -2,0 z m 4,0 2,0 0,12 -2,0 z m 4,0 2,0 0,12 -2,0 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           inkscape:connector-curvature="0" />
+      </g>
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4705"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g4716"
+       transform="translate(64,191.99999)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="stroke:none"
+         id="g4353"
+         transform="translate(-5.5010605,-88.00003)">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 42,1098.3622 8,5 0.688147,2.0623 -4.688147,0.9377 0,2 5.682837,0.043 0.319284,0.9568 -0.0021,1 -6,6 -4.000021,2 -11,2e-4 -8,-4 0,-16 z"
+           id="path4355"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccc" />
+        <g
+           style="stroke:none"
+           id="g4357"
+           transform="matrix(0.76450991,0,0,0.76450991,8.6835358,327.72784)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4359"
+             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#18152d;fill-opacity:1;stroke:none;stroke-width:2.43198848;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+             d="m 35.428834,1025.2355 -0.905558,0.088 0,1.9211 0.905558,0 m -2.716673,-2.0091 0.905558,0.088 0,1.9211 -0.905558,0 m 6.706785,-10.3856 c -0.369252,2.0623 -0.906158,3.5825 -1.556427,4.6976 0.0027,-0.059 0.0283,-0.1101 0.0283,-0.1698 0,-2.1346 -1.742361,-3.8769 -3.876918,-3.8769 -2.134558,0 -3.905217,1.7423 -3.905217,3.8769 0,0.5562 0.125921,1.0764 0.339584,1.5564 -1.904606,-1.2188 -3.322662,-3.0511 -3.310944,-3.8203 l -1.216843,0.3679 c 1.006163,3.0698 3.665723,5.2604 6.791681,5.7446 l 0,-2.2356 c -0.474341,-0.3761 -0.792363,-0.9557 -0.792363,-1.613 0,-1.1558 0.938344,-2.0658 2.094102,-2.0658 1.155758,0 2.065803,0.91 2.065803,2.0658 0,0.6065 -0.245675,1.153 -0.650869,1.5281 l 0,2.3205 c 4.20093,-0.6627 8.150017,-4.1654 8.150017,-8.3764 l -4.159905,0 z m -4.89567,6.537 c -0.161589,0.039 -0.334182,0.057 -0.509376,0.057 -0.134881,0 -0.268368,0 -0.396181,-0.028 l 0,1.896 c 0.132858,0.01 0.262197,0.028 0.396181,0.028 0.169835,0 0.339259,-0.018 0.509376,-0.028 l 0,-1.9243 z" />
+        </g>
+      </g>
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4714"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g4733"
+       transform="translate(0,191.99999)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="stroke:none"
+         id="g4723"
+         transform="translate(-3.0010605,-3e-5)">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 46,1010.3622 4,2 0.688147,2.0623 -4.688147,0.9377 0,2 5.682837,0.043 0.319284,0.9568 -0.0021,4 -2,6 -4.000021,2 -20,2e-4 -8,-2 0,-18 z"
+           id="path4725"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccc" />
+        <g
+           style="stroke:none"
+           id="g4727"
+           transform="matrix(1.1042921,0,0,1.1042921,-6.1237809,-107.01608)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4729"
+             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#18152d;fill-opacity:1;stroke:none;stroke-width:2.43198848;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+             d="m 35.428834,1025.2355 -0.905558,0.088 0,1.9211 0.905558,0 m -2.716673,-2.0091 0.905558,0.088 0,1.9211 -0.905558,0 m 6.706785,-10.3856 c -0.369252,2.0623 -0.906158,3.5825 -1.556427,4.6976 0.0027,-0.059 0.0283,-0.1101 0.0283,-0.1698 0,-2.1346 -1.742361,-3.8769 -3.876918,-3.8769 -2.134558,0 -3.905217,1.7423 -3.905217,3.8769 0,0.5562 0.125921,1.0764 0.339584,1.5564 -1.904606,-1.2188 -3.322662,-3.0511 -3.310944,-3.8203 l -1.216843,0.3679 c 1.006163,3.0698 3.665723,5.2604 6.791681,5.7446 l 0,-2.2356 c -0.474341,-0.3761 -0.792363,-0.9557 -0.792363,-1.613 0,-1.1558 0.938344,-2.0658 2.094102,-2.0658 1.155758,0 2.065803,0.91 2.065803,2.0658 0,0.6065 -0.245675,1.153 -0.650869,1.5281 l 0,2.3205 c 4.20093,-0.6627 8.150017,-4.1654 8.150017,-8.3764 l -4.159905,0 z m -4.89567,6.537 c -0.161589,0.039 -0.334182,0.057 -0.509376,0.057 -0.134881,0 -0.268368,0 -0.396181,-0.028 l 0,1.896 c 0.132858,0.01 0.262197,0.028 0.396181,0.028 0.169835,0 0.339259,-0.018 0.509376,-0.028 l 0,-1.9243 z" />
+        </g>
+      </g>
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4731"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g4742"
+       transform="translate(-64,191.99999)"
+       inkscape:export-filename="D:\work\pioneer\graphics_design\icons\shipclass_icons.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="stroke:none"
+         id="g4337"
+         transform="translate(-4.00105,0.99997)">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 55.999979,1010.3622 4,2 0.688147,2.0623 -4.688147,0.9377 0,2 5.682837,0.043 0.319284,0.9568 -0.0021,4 -2,6 -4.000021,2 -31.999979,2e-4 -14,-4 0,-16 18,-2 12,0 2.1875,2 z"
+           id="path4339"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccc" />
+        <g
+           style="stroke:none"
+           id="g4341"
+           transform="matrix(1.1042921,0,0,1.1042921,-4.623782,-107.79719)">
+          <path
+             id="path4343"
+             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#18152d;fill-opacity:1;stroke:none;stroke-width:2.43198848;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+             d="m 35.428834,1025.2355 -0.905558,0.088 0,1.9211 0.905558,0 m -2.716673,-2.0091 0.905558,0.088 0,1.9211 -0.905558,0 m 6.706785,-10.3856 c -0.369252,2.0623 -0.906158,3.5825 -1.556427,4.6976 0.0027,-0.059 0.0283,-0.1101 0.0283,-0.1698 0,-2.1346 -1.742361,-3.8769 -3.876918,-3.8769 -2.134558,0 -3.905217,1.7423 -3.905217,3.8769 0,0.5562 0.125921,1.0764 0.339584,1.5564 -1.904606,-1.2188 -3.322662,-3.0511 -3.310944,-3.8203 l -1.216843,0.3679 c 1.006163,3.0698 3.665723,5.2604 6.791681,5.7446 l 0,-2.2356 c -0.474341,-0.3761 -0.792363,-0.9557 -0.792363,-1.613 0,-1.1558 0.938344,-2.0658 2.094102,-2.0658 1.155758,0 2.065803,0.91 2.065803,2.0658 0,0.6065 -0.245675,1.153 -0.650869,1.5281 l 0,2.3205 c 4.20093,-0.6627 8.150017,-4.1654 8.150017,-8.3764 l -4.159905,0 z m -4.89567,6.537 c -0.161589,0.039 -0.334182,0.057 -0.509376,0.057 -0.134881,0 -0.268368,0 -0.396181,-0.028 l 0,1.896 c 0.132858,0.01 0.262197,0.028 0.396181,0.028 0.169835,0 0.339259,-0.018 0.509376,-0.028 l 0,-1.9243 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <rect
+         y="988.36218"
+         x="0"
+         height="64"
+         width="64"
+         id="rect4740"
+         style="fill:none;stroke:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Adobe Arabic;-inkscape-font-specification:Adobe Arabic"
+       x="136.56509"
+       y="1153.4073"
+       id="text4749"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4751"
+         x="136.56509"
+         y="1153.4073"
+         style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:'Exo 2.0';-inkscape-font-specification:'Exo 2.0,'">Fighter</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4755"
+       y="1097.3743"
+       x="-53.39917"
+       style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Adobe Arabic;-inkscape-font-specification:Adobe Arabic"
+       xml:space="preserve"><tspan
+         style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:'Exo 2.0';-inkscape-font-specification:'Exo 2.0,'"
+         y="1097.3743"
+         x="-53.39917"
+         id="tspan4757"
+         sodipodi:role="line">Heavy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Adobe Arabic;-inkscape-font-specification:Adobe Arabic"
+       x="3.6008301"
+       y="1097.3743"
+       id="text4761"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4763"
+         x="3.6008301"
+         y="1097.3743"
+         style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:'Exo 2.0';-inkscape-font-specification:'Exo 2.0,'">Medium</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4765"
+       y="1097.3743"
+       x="75.60083"
+       style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Adobe Arabic;-inkscape-font-specification:Adobe Arabic"
+       xml:space="preserve"><tspan
+         style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:'Exo 2.0';-inkscape-font-specification:'Exo 2.0,'"
+         y="1097.3743"
+         x="75.60083"
+         id="tspan4767"
+         sodipodi:role="line">Light</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4769"
+       y="1217.3743"
+       x="136.56509"
+       style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Adobe Arabic;-inkscape-font-specification:Adobe Arabic"
+       xml:space="preserve"><tspan
+         style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:'Exo 2.0';-inkscape-font-specification:'Exo 2.0,'"
+         y="1217.3743"
+         x="136.56509"
+         id="tspan4771"
+         sodipodi:role="line">Courier</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Adobe Arabic;-inkscape-font-specification:Adobe Arabic"
+       x="136.56509"
+       y="1281.3743"
+       id="text4773"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4775"
+         x="136.56509"
+         y="1281.3743"
+         style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:'Exo 2.0';-inkscape-font-specification:'Exo 2.0,'">Passenger shuttle</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4777"
+       y="1345.3743"
+       x="136.56509"
+       style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Adobe Arabic;-inkscape-font-specification:Adobe Arabic"
+       xml:space="preserve"><tspan
+         style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:'Exo 2.0';-inkscape-font-specification:'Exo 2.0,'"
+         y="1345.3743"
+         x="136.56509"
+         id="tspan4779"
+         sodipodi:role="line">Passenger transport</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Adobe Arabic;-inkscape-font-specification:Adobe Arabic"
+       x="136.56509"
+       y="1409.3743"
+       id="text4781"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4783"
+         x="136.56509"
+         y="1409.3743"
+         style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:'Exo 2.0';-inkscape-font-specification:'Exo 2.0,'">Cargo shuttle</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4785"
+       y="1473.3743"
+       x="136.56509"
+       style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Adobe Arabic;-inkscape-font-specification:Adobe Arabic"
+       xml:space="preserve"><tspan
+         style="font-size:14.7005415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:'Exo 2.0';-inkscape-font-specification:'Exo 2.0,'"
+         y="1473.3743"
+         x="136.56509"
+         id="tspan4787"
+         sodipodi:role="line">Freighter</tspan></text>
+  </g>
+</svg>
