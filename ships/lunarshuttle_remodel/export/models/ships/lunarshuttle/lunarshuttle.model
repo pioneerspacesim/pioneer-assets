@@ -1,0 +1,25 @@
+# Lunar Shuttle
+#
+material lunarshuttle_wing-material
+tex_glow AO_wing.png
+diffuse 0.75 0.75 0.75
+specular 0.2 0.2 0.2
+
+material lunarshuttle_fuselage-material
+tex_diff AO.png
+diffuse 0.75 0.75 0.75
+specular 0.2 0.2 0.2
+
+material lunarshuttle_nacelle-material
+tex_diff AO_nacelle.png
+diffuse 0.75 0.75 0.75
+specular 0.2 0.2 0.2
+
+
+lod 1000
+mesh lunar_shuttle.dae
+anim gear_down 1 100
+
+
+
+
