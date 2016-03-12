@@ -13,9 +13,11 @@ specular 0.8 0.8 0.8
 #--diffuse texture
 tex_diff bluenose_diff.png
 #--specularity texture - more specular where brighter
-#tex_spec bluenose_spec.dds
-#glow texture - more bright where lighter, color applies too
-#tex_glow bluenose_glow.dds
+tex_spec bluenose_spec.png
+#--glow texture - more bright where lighter, color applies too
+tex_glow bluenose_glow.png
+#--normal map
+tex_norm bluenose_normal.png
 
 # LOD setup, the number indicates the size of the craft in screen pixels
 lod 300
