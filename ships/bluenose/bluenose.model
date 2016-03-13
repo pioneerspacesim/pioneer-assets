@@ -2,14 +2,14 @@ material Fuselage-material
 diffuse 1.0 1.0 1.0
 specular 0.8 0.8 0.8
 #use_patterns
-tex_diff bluenose_diff.png
-tex_spec bluenose_spec.png
-tex_glow bluenose_glow.png
-tex_norm bluenose_normal.png
+tex_diff bluenose_diff.dds
+tex_spec bluenose_spec.dds
+tex_glow bluenose_glow.dds
+tex_norm bluenose_normal.dds
 
 lod 300
-mesh bluenose.dae
-#mesh bluenose_shield.dae
+mesh bluenose_hi.dae
+mesh bluenose_shield.dae
 
 lod 100
 mesh bluenose_med.dae
@@ -19,4 +19,4 @@ mesh bluenose_low.dae
 
 anim gear_down 1 121
 
-collision bluenose_shield.dae
+collision bluenose_collision.dae
