@@ -1,39 +1,22 @@
-#--Material setup. You can have several materials, each starts with a material
-#--line and the lines bellow come after it
-#--I've commented out some unused lines too(specular texture for example), just remove the hashmark to enable them
-#--Only one material per object
-#--Blender appends "-material" to the material name
 material Fuselage-material
-#--diffuse color
 diffuse 1.0 1.0 1.0
-#--specular color
 specular 0.8 0.8 0.8
-#--if the ship uses patterns (check the model system article on the wiki)
 #use_patterns
-#--diffuse texture
 tex_diff bluenose_diff.png
-#--specularity texture - more specular where brighter
 tex_spec bluenose_spec.png
-#--glow texture - more bright where lighter, color applies too
 tex_glow bluenose_glow.png
-#--normal map
 tex_norm bluenose_normal.png
 
-# LOD setup, the number indicates the size of the craft in screen pixels
 lod 300
-# meshes
 mesh bluenose.dae
-mesh bluenose_shield.dae
+#mesh bluenose_shield.dae
 
-#lod 100
-#mesh bluenose_med.dae
+lod 100
+mesh bluenose_med.dae
 
-#lod 50
-#mesh bluenose_low.dae
+lod 50
+mesh bluenose_low.dae
 
-#--Animation setup
-#--Landing gear animation, start and end frame
 anim gear_down 1 121
 
-#--collision mesh, the engine generates a bounding box, if not present
-#collision bluenose_col.obj
+collision bluenose_shield.dae
