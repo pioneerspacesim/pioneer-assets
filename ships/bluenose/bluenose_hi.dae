@@ -5,8 +5,8 @@
       <author>Blender User</author>
       <authoring_tool>Blender 2.75.0 commit date:2015-07-07, commit time:14:56, hash:c27589e</authoring_tool>
     </contributor>
-    <created>2016-03-13T22:03:16</created>
-    <modified>2016-03-13T22:03:16</modified>
+    <created>2016-03-16T20:36:49</created>
+    <modified>2016-03-16T20:36:49</modified>
     <unit name="meter" meter="1"/>
     <up_axis>Z_UP</up_axis>
   </asset>
@@ -8109,7 +8109,6 @@
       <channel source="#Rear_gear_door_RL_scale_Z-sampler" target="Rear_gear_door_RL/scale.Z"/>
     </animation>
   </library_animations>
-  <library_controllers/>
   <library_visual_scenes>
     <visual_scene id="Scene" name="Scene">
       <node id="Sensor_Panel" name="Sensor_Panel" type="NODE">
@@ -8862,10 +8861,17 @@
         </instance_geometry>
       </node>
       <node id="label_001" name="label_001" type="NODE">
-        <translate sid="location">-5.389343 -13.21935 -1.032948</translate>
-        <rotate sid="rotationZ">0 0 1 90.01627</rotate>
-        <rotate sid="rotationY">0 1 0 0.001140875</rotate>
-        <rotate sid="rotationX">1 0 0 -11.38752</rotate>
+        <translate sid="location">-5.39688 -13.21935 -1.034466</translate>
+        <rotate sid="rotationZ">0 0 1 -89.98372</rotate>
+        <rotate sid="rotationY">0 1 0 -0.001139884</rotate>
+        <rotate sid="rotationX">1 0 0 101.3875</rotate>
+        <scale sid="scale">0.9999999 1 1</scale>
+      </node>
+      <node id="label_000" name="label_000" type="NODE">
+        <translate sid="location">5.926014 -13.21935 -1.034466</translate>
+        <rotate sid="rotationZ">0 0 1 90.0163</rotate>
+        <rotate sid="rotationY">0 1 0 -0.001139884</rotate>
+        <rotate sid="rotationX">1 0 0 101.3875</rotate>
         <scale sid="scale">0.9999999 1 1</scale>
       </node>
     </visual_scene>

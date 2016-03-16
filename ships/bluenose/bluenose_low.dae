@@ -5,8 +5,8 @@
       <author>Blender User</author>
       <authoring_tool>Blender 2.75.0 commit date:2015-07-07, commit time:14:56, hash:c27589e</authoring_tool>
     </contributor>
-    <created>2016-03-13T22:05:03</created>
-    <modified>2016-03-13T22:05:03</modified>
+    <created>2016-03-16T18:10:15</created>
+    <modified>2016-03-16T18:10:15</modified>
     <unit name="meter" meter="1"/>
     <up_axis>Z_UP</up_axis>
   </asset>
@@ -45,37 +45,6 @@
     </material>
   </library_materials>
   <library_geometries>
-    <geometry id="Fuselage_half_013-mesh" name="Fuselage half.013">
-      <mesh>
-        <source id="Fuselage_half_013-mesh-positions">
-          <float_array id="Fuselage_half_013-mesh-positions-array" count="30">-6.534688 6.099786 -1.207275 -6.534688 6.099786 -1.207275 -6.534688 6.099786 -1.207275 -6.534688 6.099786 -1.207275 -4.730372 9.43296 -2.995911 6.534688 6.099786 -1.207275 6.534688 6.099786 -1.207275 6.534688 6.099786 -1.207275 6.534688 6.099786 -1.207275 4.730372 9.43296 -2.995911</float_array>
-          <technique_common>
-            <accessor source="#Fuselage_half_013-mesh-positions-array" count="10" stride="3">
-              <param name="X" type="float"/>
-              <param name="Y" type="float"/>
-              <param name="Z" type="float"/>
-            </accessor>
-          </technique_common>
-        </source>
-        <source id="Fuselage_half_013-mesh-normals">
-          <float_array id="Fuselage_half_013-mesh-normals-array" count="0"/>
-          <technique_common>
-            <accessor source="#Fuselage_half_013-mesh-normals-array" count="0" stride="3">
-              <param name="X" type="float"/>
-              <param name="Y" type="float"/>
-              <param name="Z" type="float"/>
-            </accessor>
-          </technique_common>
-        </source>
-        <vertices id="Fuselage_half_013-mesh-vertices">
-          <input semantic="POSITION" source="#Fuselage_half_013-mesh-positions"/>
-        </vertices>
-        <lines count="4">
-          <input semantic="VERTEX" source="#Fuselage_half_013-mesh-vertices" offset="0"/>
-          <p>1 0 3 2 6 5 8 7</p>
-        </lines>
-      </mesh>
-    </geometry>
     <geometry id="Heat_sink_L_008-mesh" name="Heat_sink_L.008">
       <mesh>
         <source id="Heat_sink_L_008-mesh-positions">
@@ -7669,428 +7638,14 @@
       <channel source="#Rear_gear_door_RL_LOW_scale_Z-sampler" target="Rear_gear_door_RL_LOW/scale.Z"/>
     </animation>
   </library_animations>
-  <library_controllers/>
   <library_visual_scenes>
     <visual_scene id="Scene" name="Scene">
-      <node id="thruster__012" name="thruster__012" type="NODE">
-        <translate sid="location">-1.91877 15.10485 0.6140363</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 -90</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster_001" name="thruster_001" type="NODE">
-        <translate sid="location">-1.559683 15.10135 0.875304</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 -90</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__003" name="thruster__003" type="NODE">
-        <translate sid="location">-2.211309 14.71847 0.8732018</translate>
-        <rotate sid="rotationZ">0 0 1 90</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 -90</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__002" name="thruster__002" type="NODE">
-        <translate sid="location">-1.708822 14.73814 1.216432</translate>
-        <rotate sid="rotationZ">0 0 1 90</rotate>
-        <rotate sid="rotationY">0 1 0 4.32571e-6</rotate>
-        <rotate sid="rotationX">1 0 0 -6.83019e-6</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__004" name="thruster__004" type="NODE">
-        <translate sid="location">-2.520289 14.72019 -2.255359</translate>
-        <rotate sid="rotationZ">0 0 1 90</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 -90</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__005" name="thruster__005" type="NODE">
-        <translate sid="location">-1.805209 14.71478 -2.557405</translate>
-        <rotate sid="rotationZ">0 0 1 90</rotate>
-        <rotate sid="rotationY">0 1 0 -4.32571e-6</rotate>
-        <rotate sid="rotationX">1 0 0 180</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster_linear" name="thruster_linear" type="NODE">
-        <translate sid="location">-5.774259 6.315904 -0.1841096</translate>
-        <rotate sid="rotationZ">0 0 1 7.862447</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 -90</rotate>
-        <scale sid="scale">4.950579 4.950579 4.950579</scale>
-      </node>
-      <node id="thruster_linear_013" name="thruster_linear_013" type="NODE">
-        <translate sid="location">-5.552582 6.139851 -1.470567</translate>
-        <rotate sid="rotationZ">0 0 1 3.389952</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 -90</rotate>
-        <scale sid="scale">3.366908 3.366908 3.366908</scale>
-      </node>
-      <node id="thruster__006" name="thruster__006" type="NODE">
-        <translate sid="location">-2.320759 -16.43892 2.563705</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__007" name="thruster__007" type="NODE">
-        <translate sid="location">-3.674275 -16.43863 2.160018</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 -90</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__009" name="thruster__009" type="NODE">
-        <translate sid="location">-0.4037101 -15.8587 2.735232</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 90</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__010" name="thruster__010" type="NODE">
-        <translate sid="location">-0.9324402 -15.8587 2.501781</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 90</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__008" name="thruster__008" type="NODE">
-        <translate sid="location">-4.724884 -16.43663 -2.483125</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 -90</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__011" name="thruster__011" type="NODE">
-        <translate sid="location">-2.321039 -16.43858 -1.6823</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 180</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster_linear_002" name="thruster_linear_002" type="NODE">
-        <translate sid="location">-2.896815 -22.00144 1.218539</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 90</rotate>
-        <scale sid="scale">9.458522 9.458522 9.458522</scale>
-      </node>
-      <node id="thruster_linear_001" name="thruster_linear_001" type="NODE">
-        <translate sid="location">-3.777385 -22.00145 -1.488856</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 90</rotate>
-        <scale sid="scale">9.458522 9.458522 9.458522</scale>
-      </node>
-      <node id="thruster_linear_003" name="thruster_linear_003" type="NODE">
-        <translate sid="location">-4.217307 -21.71451 0.1641452</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 90</rotate>
-        <scale sid="scale">4.818042 4.818042 4.818042</scale>
-      </node>
-      <node id="thruster_linear_004" name="thruster_linear_004" type="NODE">
-        <translate sid="location">-2.484156 -21.71453 -0.417495</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 90</rotate>
-        <scale sid="scale">4.818042 4.818042 4.818042</scale>
-      </node>
-      <node id="tag_landing" name="tag_landing" type="NODE">
-        <translate sid="location">0.2673693 -0.3722705 -5.155452</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster_linear_014" name="thruster_linear_014" type="NODE">
-        <translate sid="location">-4.81762 5.258618 -2.852354</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 6.448128</rotate>
-        <rotate sid="rotationX">1 0 0 180</rotate>
-        <scale sid="scale">2.96579 2.965789 2.96579</scale>
-      </node>
-      <node id="thruster_linear_004" name="thruster_linear_004" type="NODE">
-        <translate sid="location">-3.945123 -15.47199 -2.934836</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 7.548112</rotate>
-        <rotate sid="rotationX">1 0 0 180</rotate>
-        <scale sid="scale">2.965789 2.965789 2.965789</scale>
-      </node>
-      <node id="navlight__004" name="navlight__004" type="NODE">
-        <translate sid="location">-1.579467 14.8751 -0.6392827</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="navlight__001" name="navlight__001" type="NODE">
-        <translate sid="location">0.2673693 14.4805 -2.742187</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="navlight__003" name="navlight__003" type="NODE">
-        <translate sid="location">0.2673693 14.59937 3.994143</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="navlight_red" name="navlight_red" type="NODE">
-        <translate sid="location">-7.166223 2.58848 0.3818264</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="navlight_red_001" name="navlight_red_001" type="NODE">
-        <translate sid="location">-6.369961 2.58848 -2.732846</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="navlight_" name="navlight_" type="NODE">
-        <translate sid="location">0.2673693 -14.85026 3.762818</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="navlight__002" name="navlight__002" type="NODE">
-        <translate sid="location">0.2687899 -11.45866 -3.434042</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster_linear_004_001" name="thruster_linear_004_001" type="NODE">
-        <translate sid="location">3.018894 -21.71453 -0.417495</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 90</rotate>
-        <scale sid="scale">4.818 4.818042 4.818042</scale>
-      </node>
-      <node id="thruster_linear_003_001" name="thruster_linear_003_001" type="NODE">
-        <translate sid="location">4.752046 -21.71451 0.1641452</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 90</rotate>
-        <scale sid="scale">4.818 4.818042 4.818042</scale>
-      </node>
-      <node id="thruster_linear_001_001" name="thruster_linear_001_001" type="NODE">
-        <translate sid="location">4.312124 -22.00145 -1.488856</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 90</rotate>
-        <scale sid="scale">9.459 9.458522 9.458522</scale>
-      </node>
-      <node id="thruster_linear_002_001" name="thruster_linear_002_001" type="NODE">
-        <translate sid="location">3.431553 -22.00144 1.218539</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 90</rotate>
-        <scale sid="scale">9.459 9.458522 9.458522</scale>
-      </node>
-      <node id="navlight_green_001" name="navlight_green_001" type="NODE">
-        <translate sid="location">6.904699 2.58848 -2.732847</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="navlight_green" name="navlight_green" type="NODE">
-        <translate sid="location">7.700961 2.58848 0.3818264</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster_linear_005" name="thruster_linear_005" type="NODE">
-        <translate sid="location">4.479862 -15.47199 -2.934836</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 -7.548</rotate>
-        <rotate sid="rotationX">1 0 0 180</rotate>
-        <scale sid="scale">2.966 2.965789 2.965788</scale>
-      </node>
-      <node id="thruster_linear_001" name="thruster_linear_001" type="NODE">
-        <translate sid="location">5.352358 5.258618 -2.852354</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 -6.448</rotate>
-        <rotate sid="rotationX">1 0 0 180</rotate>
-        <scale sid="scale">2.966 2.965789 2.965789</scale>
-      </node>
-      <node id="thruster__000" name="thruster__000" type="NODE">
-        <translate sid="location">2.855778 -16.43858 -1.6823</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 180</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__001" name="thruster__001" type="NODE">
-        <translate sid="location">5.259623 -16.43663 -2.483125</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 -90</rotate>
-        <rotate sid="rotationX">1 0 0 180</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__013" name="thruster__013" type="NODE">
-        <translate sid="location">4.209014 -16.43863 2.160018</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 -90</rotate>
-        <rotate sid="rotationX">1 0 0 180</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__014" name="thruster__014" type="NODE">
-        <translate sid="location">2.855498 -16.43892 2.563705</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster_linear_002" name="thruster_linear_002" type="NODE">
-        <translate sid="location">6.08732 6.139851 -1.470567</translate>
-        <rotate sid="rotationZ">0 0 1 -3.39</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 -90</rotate>
-        <scale sid="scale">3.367 3.366908 3.366908</scale>
-      </node>
-      <node id="thruster_linear_003" name="thruster_linear_003" type="NODE">
-        <translate sid="location">6.308997 6.315904 -0.1841096</translate>
-        <rotate sid="rotationZ">0 0 1 -7.862001</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 -90</rotate>
-        <scale sid="scale">4.951 4.950578 4.950578</scale>
-      </node>
-      <node id="thruster__015" name="thruster__015" type="NODE">
-        <translate sid="location">2.339947 14.71478 -2.557405</translate>
-        <rotate sid="rotationZ">0 0 1 90</rotate>
-        <rotate sid="rotationY">0 1 0 -4.32571e-6</rotate>
-        <rotate sid="rotationX">1 0 0 180</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__016" name="thruster__016" type="NODE">
-        <translate sid="location">3.055027 14.72019 -2.255359</translate>
-        <rotate sid="rotationZ">0 0 1 -90</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 -90</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__017" name="thruster__017" type="NODE">
-        <translate sid="location">2.24356 14.73814 1.216432</translate>
-        <rotate sid="rotationZ">0 0 1 90</rotate>
-        <rotate sid="rotationY">0 1 0 4.32571e-6</rotate>
-        <rotate sid="rotationX">1 0 0 -6.83019e-6</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__018" name="thruster__018" type="NODE">
-        <translate sid="location">2.746048 14.71847 0.8732018</translate>
-        <rotate sid="rotationZ">0 0 1 -90</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 -90</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster_000" name="thruster_000" type="NODE">
-        <translate sid="location">2.094421 15.10135 0.875304</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 -90</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__019" name="thruster__019" type="NODE">
-        <translate sid="location">2.453508 15.10485 0.6140363</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 -90</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__020" name="thruster__020" type="NODE">
-        <translate sid="location">0.9384487 -15.8587 2.735232</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 90</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="thruster__021" name="thruster__021" type="NODE">
-        <translate sid="location">1.467179 -15.8587 2.501781</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 90</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="tag_gunmount_0" name="tag_gunmount_0" type="NODE">
-        <translate sid="location">-0.648654 15.43517 -1.804164</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 -90</rotate>
-        <scale sid="scale">2.464817 2.464817 2.464817</scale>
-      </node>
-      <node id="tag_camera_bottom" name="tag_camera_bottom" type="NODE">
-        <translate sid="location">0.2673693 0.9772044 -3.434042</translate>
-        <rotate sid="rotationZ">0 0 1 -8.65142e-6</rotate>
-        <rotate sid="rotationY">0 1 0 -180</rotate>
-        <rotate sid="rotationX">1 0 0 -8.65142e-6</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="tag_camera_front" name="tag_camera_front" type="NODE">
-        <translate sid="location">0.2673693 15.63202 2.487186</translate>
-        <rotate sid="rotationZ">0 0 1 -180</rotate>
-        <rotate sid="rotationY">0 1 0 8.65142e-6</rotate>
-        <rotate sid="rotationX">1 0 0 90</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="tag_camaer_right" name="tag_camaer_right" type="NODE">
-        <translate sid="location">0.2673693 15.63202 2.487186</translate>
-        <rotate sid="rotationZ">0 0 1 90</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 90</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="tag_camaer_left" name="tag_camaer_left" type="NODE">
-        <translate sid="location">0.2673693 15.63202 2.487186</translate>
-        <rotate sid="rotationZ">0 0 1 -90</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 90</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="tag_camera_top" name="tag_camera_top" type="NODE">
-        <translate sid="location">0.2673693 -0.6631069 5.323983</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="tag_camera_rear" name="tag_camera_rear" type="NODE">
-        <translate sid="location">0.2673693 -15.97112 3.040909</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 90</rotate>
-        <scale sid="scale">1 1 1</scale>
-      </node>
-      <node id="Fuselage_Half_LOW" name="Fuselage_Half_LOW" type="NODE">
-        <translate sid="location">0.2673693 -0.3722705 0.7737528</translate>
-        <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0</rotate>
-        <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
-        <instance_geometry url="#Fuselage_half_013-mesh" name="Fuselage_Half_LOW">
-          <bind_material>
-            <technique_common>
-              <instance_material symbol="Fuselage-material" target="#Fuselage-material"/>
-            </technique_common>
-          </bind_material>
-        </instance_geometry>
-      </node>
       <node id="Heatsink_L_LOW_001" name="Heatsink_L_LOW_001" type="NODE">
         <translate sid="location">-5.157172 -19.25181 0.4179844</translate>
         <rotate sid="rotationZ">0 0 1 1.08651e-6</rotate>
         <rotate sid="rotationY">0 1 0 -75.227</rotate>
-        <rotate sid="rotationX">1 0 0 -17.27285</rotate>
-        <scale sid="scale">1 1 0.9999999</scale>
+        <rotate sid="rotationX">1 0 0 -0.002581812</rotate>
+        <scale sid="scale">1 1 1</scale>
         <instance_geometry url="#Heat_sink_L_008-mesh" name="Heatsink_L_LOW_001">
           <bind_material>
             <technique_common>
@@ -8103,8 +7658,8 @@
         <translate sid="location">-4.867911 -19.25182 -1.923165</translate>
         <rotate sid="rotationZ">0 0 1 1.60322e-6</rotate>
         <rotate sid="rotationY">0 1 0 -113.9964</rotate>
-        <rotate sid="rotationX">1 0 0 -18.561</rotate>
-        <scale sid="scale">1 0.9999998 0.9999999</scale>
+        <rotate sid="rotationX">1 0 0 -0.002776472</rotate>
+        <scale sid="scale">1 1 0.9999999</scale>
         <instance_geometry url="#Heat_sink_L_009-mesh" name="Heatsink_L_LOW_002">
           <bind_material>
             <technique_common>
@@ -8117,8 +7672,8 @@
         <translate sid="location">5.402649 -19.25182 -1.923165</translate>
         <rotate sid="rotationZ">0 0 1 -3.44248e-6</rotate>
         <rotate sid="rotationY">0 1 0 113.996</rotate>
-        <rotate sid="rotationX">1 0 0 -18.56122</rotate>
-        <scale sid="scale">1 0.9999999 0.9999999</scale>
+        <rotate sid="rotationX">1 0 0 -0.002776472</rotate>
+        <scale sid="scale">1 1 0.9999999</scale>
         <instance_geometry url="#Heat_sink_R_006-mesh" name="Heatsink_R_LOW_000">
           <bind_material>
             <technique_common>
@@ -8130,9 +7685,9 @@
       <node id="Heatsink_R_LOW_001" name="Heatsink_R_LOW_001" type="NODE">
         <translate sid="location">5.691911 -19.25181 0.4179844</translate>
         <rotate sid="rotationZ">0 0 1 -6.51978e-6</rotate>
-        <rotate sid="rotationY">0 1 0 75.22701</rotate>
-        <rotate sid="rotationX">1 0 0 -17.27243</rotate>
-        <scale sid="scale">1 0.9999998 1</scale>
+        <rotate sid="rotationY">0 1 0 75.227</rotate>
+        <rotate sid="rotationX">1 0 0 -0.002581811</rotate>
+        <scale sid="scale">1 1 1</scale>
         <instance_geometry url="#Heat_sink_R_007-mesh" name="Heatsink_R_LOW_001">
           <bind_material>
             <technique_common>
@@ -8145,7 +7700,7 @@
         <translate sid="location">3.540361 -19.17033 2.358483</translate>
         <rotate sid="rotationZ">0 0 1 3.20753e-8</rotate>
         <rotate sid="rotationY">0 1 0 17.995</rotate>
-        <rotate sid="rotationX">1 0 0 -20.87788</rotate>
+        <rotate sid="rotationX">1 0 0 -0.003124812</rotate>
         <scale sid="scale">0.9999999 1 1</scale>
         <instance_geometry url="#Heat_sink_R_008-mesh" name="Heatsink_R_LOW_002">
           <bind_material>
@@ -8159,8 +7714,8 @@
         <translate sid="location">-3.00056 -19.25182 2.3585</translate>
         <rotate sid="rotationZ">0 0 1 -7.06247e-8</rotate>
         <rotate sid="rotationY">0 1 0 -17.99477</rotate>
-        <rotate sid="rotationX">1 0 0 -20.87788</rotate>
-        <scale sid="scale">1 1 0.9999999</scale>
+        <rotate sid="rotationX">1 0 0 -0.003124811</rotate>
+        <scale sid="scale">1 1 1</scale>
         <instance_geometry url="#Heat_sink_L_010-mesh" name="Heatsink_L_LOW_004">
           <bind_material>
             <technique_common>
@@ -8172,9 +7727,9 @@
       <node id="Front_gear_door_L_LOW" name="Front_gear_door_L_LOW" type="NODE">
         <translate sid="location">-0.4038315 7.52196 -3.434042</translate>
         <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0.1437732</rotate>
+        <rotate sid="rotationY">0 1 0 94.50961</rotate>
         <rotate sid="rotationX">1 0 0 0</rotate>
-        <scale sid="scale">1 1 1</scale>
+        <scale sid="scale">0.9999998 1 0.9999998</scale>
         <instance_geometry url="#Fuselage_half_014-mesh" name="Front_gear_door_L_LOW">
           <bind_material>
             <technique_common>
@@ -8184,7 +7739,7 @@
         </instance_geometry>
       </node>
       <node id="gearstand_F_LOW" name="gearstand_F_LOW" type="NODE">
-        <translate sid="location">0.2673693 7.61952 -0.9365448</translate>
+        <translate sid="location">0.2673693 7.61952 -2.773288</translate>
         <rotate sid="rotationZ">0 0 1 1.51314e-6</rotate>
         <rotate sid="rotationY">0 1 0 -1.32089e-6</rotate>
         <rotate sid="rotationX">1 0 0 -1.28066e-6</rotate>
@@ -8200,7 +7755,7 @@
       <node id="Front_gear_door_R_LOW" name="Front_gear_door_R_LOW" type="NODE">
         <translate sid="location">0.9385701 7.52196 -3.434042</translate>
         <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 -0.1437738</rotate>
+        <rotate sid="rotationY">0 1 0 -94.50999</rotate>
         <rotate sid="rotationX">1 0 0 0</rotate>
         <scale sid="scale">0.9999999 1 0.9999999</scale>
         <instance_geometry url="#Fuselage_half_015-mesh" name="Front_gear_door_R_LOW">
@@ -8212,9 +7767,9 @@
         </instance_geometry>
       </node>
       <node id="Rear_gear_door_LR_LOW" name="Rear_gear_door_LR_LOW" type="NODE">
-        <translate sid="location">-2.773792 -10.68179 -3.348879</translate>
+        <translate sid="location">-2.773791 -10.68179 -3.381304</translate>
         <rotate sid="rotationZ">0 0 1 -4.8142e-11</rotate>
-        <rotate sid="rotationY">0 1 0 -0.1548546</rotate>
+        <rotate sid="rotationY">0 1 0 -101.7937</rotate>
         <rotate sid="rotationX">1 0 0 3.56245e-8</rotate>
         <scale sid="scale">1 1 1</scale>
         <instance_geometry url="#Fuselage_half_016-mesh" name="Rear_gear_door_LR_LOW">
@@ -8226,11 +7781,11 @@
         </instance_geometry>
       </node>
       <node id="Rear_gear_door_LL_LOW" name="Rear_gear_door_LL_LOW" type="NODE">
-        <translate sid="location">-4.252445 -9.89803 -3.149015</translate>
-        <rotate sid="rotationZ">0 0 1 -7.7892e-7</rotate>
-        <rotate sid="rotationY">0 1 0 0.1241945</rotate>
-        <rotate sid="rotationX">1 0 0 -1.42645e-9</rotate>
-        <scale sid="scale">0.9999999 0.9999999 1</scale>
+        <translate sid="location">-4.252002 -9.898029 -3.191823</translate>
+        <rotate sid="rotationZ">0 0 1 2.61905e-5</rotate>
+        <rotate sid="rotationY">0 1 0 81.63914</rotate>
+        <rotate sid="rotationX">1 0 0 2.90337e-5</rotate>
+        <scale sid="scale">0.9999997 0.9999999 0.9999998</scale>
         <instance_geometry url="#Fuselage_half_017-mesh" name="Rear_gear_door_LL_LOW">
           <bind_material>
             <technique_common>
@@ -8240,11 +7795,11 @@
         </instance_geometry>
       </node>
       <node id="gearstand_B_L_LOW" name="gearstand_B_L_LOW" type="NODE">
-        <translate sid="location">-3.850711 -9.826721 -0.554108</translate>
-        <rotate sid="rotationZ">0 0 1 -9.24071e-6</rotate>
-        <rotate sid="rotationY">0 1 0 -8.141965</rotate>
+        <translate sid="location">-3.48748 -9.826721 -2.773229</translate>
+        <rotate sid="rotationZ">0 0 1 -1.67784e-5</rotate>
+        <rotate sid="rotationY">0 1 0 -0.00118317</rotate>
         <rotate sid="rotationX">1 0 0 -180</rotate>
-        <scale sid="scale">1 1 1</scale>
+        <scale sid="scale">0.9999998 1 1</scale>
         <instance_geometry url="#gearstand_B_L_002-mesh" name="gearstand_B_L_LOW">
           <bind_material>
             <technique_common>
@@ -8254,9 +7809,9 @@
         </instance_geometry>
       </node>
       <node id="gearstand_B_R_LOW" name="gearstand_B_R_LOW" type="NODE">
-        <translate sid="location">4.385397 -9.826721 -0.5544404</translate>
+        <translate sid="location">4.02222 -9.826721 -2.773231</translate>
         <rotate sid="rotationZ">0 0 1 -1.42384e-5</rotate>
-        <rotate sid="rotationY">0 1 0 8.14078</rotate>
+        <rotate sid="rotationY">0 1 0 0.001189176</rotate>
         <rotate sid="rotationX">1 0 0 5.51458e-6</rotate>
         <scale sid="scale">1 1 1</scale>
         <instance_geometry url="#gearstand_B_L_003-mesh" name="gearstand_B_R_LOW">
@@ -8268,9 +7823,9 @@
         </instance_geometry>
       </node>
       <node id="Rear_gear_door_RR_LOW" name="Rear_gear_door_RR_LOW" type="NODE">
-        <translate sid="location">4.787183 -9.89803 -3.14908</translate>
+        <translate sid="location">4.786777 -9.89803 -3.191771</translate>
         <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 -0.1242759</rotate>
+        <rotate sid="rotationY">0 1 0 -81.693</rotate>
         <rotate sid="rotationX">1 0 0 0</rotate>
         <scale sid="scale">1 1 1</scale>
         <instance_geometry url="#Fuselage_half_018-mesh" name="Rear_gear_door_RR_LOW">
@@ -8282,9 +7837,9 @@
         </instance_geometry>
       </node>
       <node id="Rear_gear_door_RL_LOW" name="Rear_gear_door_RL_LOW" type="NODE">
-        <translate sid="location">3.308531 -10.68179 -3.348929</translate>
+        <translate sid="location">3.30853 -10.68179 -3.381264</translate>
         <rotate sid="rotationZ">0 0 1 0</rotate>
-        <rotate sid="rotationY">0 1 0 0.1547025</rotate>
+        <rotate sid="rotationY">0 1 0 101.694</rotate>
         <rotate sid="rotationX">1 0 0 0</rotate>
         <scale sid="scale">1 1 1</scale>
         <instance_geometry url="#Fuselage_half_019-mesh" name="Rear_gear_door_RL_LOW">
@@ -8308,13 +7863,6 @@
             </technique_common>
           </bind_material>
         </instance_geometry>
-      </node>
-      <node id="label_001" name="label_001" type="NODE">
-        <translate sid="location">-5.389343 -13.21935 -1.032948</translate>
-        <rotate sid="rotationZ">0 0 1 90.01627</rotate>
-        <rotate sid="rotationY">0 1 0 0.001140875</rotate>
-        <rotate sid="rotationX">1 0 0 -11.38752</rotate>
-        <scale sid="scale">0.9999999 1 1</scale>
       </node>
     </visual_scene>
   </library_visual_scenes>
